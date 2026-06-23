@@ -1,4 +1,4 @@
-create database rep;
+create database rap;
 use rap;
 create table clientes(
     id int auto_increment primary key,
